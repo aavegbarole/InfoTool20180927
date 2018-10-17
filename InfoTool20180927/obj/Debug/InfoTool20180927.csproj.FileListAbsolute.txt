@@ -1,0 +1,14 @@
+C:\VisualStudioProjects\InfoTool20180927\InfoTool20180927\bin\Debug\InfoTool20180927.exe.config
+C:\VisualStudioProjects\InfoTool20180927\InfoTool20180927\bin\Debug\InfoTool20180927.exe
+C:\VisualStudioProjects\InfoTool20180927\InfoTool20180927\bin\Debug\InfoTool20180927.pdb
+C:\VisualStudioProjects\InfoTool20180927\InfoTool20180927\bin\Debug\LinqToExcel.dll
+C:\VisualStudioProjects\InfoTool20180927\InfoTool20180927\bin\Debug\Remotion.Data.Linq.dll
+C:\VisualStudioProjects\InfoTool20180927\InfoTool20180927\bin\Debug\Remotion.dll
+C:\VisualStudioProjects\InfoTool20180927\InfoTool20180927\bin\Debug\Remotion.Interfaces.dll
+C:\VisualStudioProjects\InfoTool20180927\InfoTool20180927\bin\Debug\LinqToExcel.xml
+C:\VisualStudioProjects\InfoTool20180927\InfoTool20180927\obj\Debug\InfoTool20180927.csprojResolveAssemblyReference.cache
+C:\VisualStudioProjects\InfoTool20180927\InfoTool20180927\obj\Debug\InfoTool20180927.Form1.resources
+C:\VisualStudioProjects\InfoTool20180927\InfoTool20180927\obj\Debug\InfoTool20180927.Properties.Resources.resources
+C:\VisualStudioProjects\InfoTool20180927\InfoTool20180927\obj\Debug\InfoTool20180927.csproj.GenerateResource.Cache
+C:\VisualStudioProjects\InfoTool20180927\InfoTool20180927\obj\Debug\InfoTool20180927.exe
+C:\VisualStudioProjects\InfoTool20180927\InfoTool20180927\obj\Debug\InfoTool20180927.pdb
